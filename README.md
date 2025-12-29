@@ -21,9 +21,10 @@ An intelligent document navigation system that extracts topics, maps relationshi
 
 ### Setup
 
-1. **Clone or navigate to the project directory**:
+1. **Clone the repository**:
    ```bash
-   cd /mnt/e/Placements_2026/assignment_hobasa
+   git clone [https://github.com/aniketbhoy/document-topic-mapping.git](https://github.com/aniketbhoy/document-topic-mapping.git)
+   cd document-topic-mapping
    ```
 
 2. **Install dependencies**:
